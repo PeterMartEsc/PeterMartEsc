@@ -1,5 +1,4 @@
-# Título
+## GitHub 1º DAM
 
-## Pedro Martín Escuela
+Made by: __Pedro Martín Escuela__
 
-### Programación 1º DAM
