@@ -2,3 +2,4 @@
 
 Made by: __Pedro Martín Escuela__
 
+Languages: English and Spanish
