@@ -1,4 +1,4 @@
-## GitHub 1º DAM
+## GitHub DAM
 
 Made by: __Pedro Martín Escuela__
 
