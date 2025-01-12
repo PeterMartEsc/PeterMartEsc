@@ -14,7 +14,7 @@ This will be my repository to upload my jobs and tasks of the DAM cycle. It will
 <table width="100%" align="center">
   <td width="60%" align="center">
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterMartEsc&theme=radical&hide_border=false"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PeterMartEsc&theme=dark&locale=es)](https://git.io/streak-stats)
 
   </td>
   <td width="40%" align="center">
