@@ -4,7 +4,7 @@ Made by: __Pedro Martín Escuela__
 
 Languages: English and Spanish
 
-This will be my repository to upload my jobs and tasks of the DAM cycle. It will also contain some personal projects.
+This will be my repository to upload my assignments and tasks from the __Higher Education Cycle in Multiplatform Application Development (DAM)__. It will also contain some personal projects.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterMartEsc&show_icons=true&locale=en&layout=compact" alt="PeterMartEsc" />
