@@ -14,17 +14,19 @@ This account will be used to upload my assignments and tasks from the __Higher E
 <table width="100%" align="center">
   <td width="60%" align="center">
     
-  <img src="https://streak-stats.demolab.com?user=PeterMartEsc&theme=dark&locale=es"/>
+  <img src="https://streak-stats.demolab.com?user=PeterMartEsc&theme=dark&locale=es" alt="Streak Stats - demolab"/>
 
   </td>
   <td width="40%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMartEsc&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+     
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMartEsc&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stats - vercel"/>
     
   </td>
 </table>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PeterMartEsc&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=PeterMartEsc&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="Profile Trophy - Vercel"/>
   
 </div>
