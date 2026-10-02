@@ -1,6 +1,4 @@
-## GitHub DAM/DAW
-
-Made by: __Pedro Martín Escuela__
+## Pedro Martín Escuela
 
 Languages: English and Spanish
 
