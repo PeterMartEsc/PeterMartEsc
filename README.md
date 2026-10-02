@@ -4,7 +4,11 @@ Made by: __Pedro Martín Escuela__
 
 Languages: English and Spanish
 
-This account will be used to upload my assignments and tasks from the __Higher Education Cycle in Multiplatform Application Development (CFGS DAM)__ and __Higher Education Cycle in Web Application Development (CFGS DAW)__. It will also contain some personal projects.
+Studies:
+
+- __Higher Education Cycle in Multiplatform Application Development__ / __CFGS en Desarrollo de Aplicaciones Multiplataforma__ 📱✅ (2023/25)
+- __Higher Education Cycle in Web Application Development__ / __CFGS en Desarrollo de Aplicaciones Web__ 💻✅ (2025/26)
+- __Cybersecurity Specialization Course__ / __Curso de Especialización en Ciberseguridad__ 🛡️⏱️ (2026/27)
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterMartEsc&show_icons=true&locale=en&layout=compact" alt="PeterMartEsc" />
