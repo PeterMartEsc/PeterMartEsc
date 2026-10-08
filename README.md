@@ -21,7 +21,7 @@ Studies:
   </td>
   <td width="40%" align="center">
      
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMartEsc&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stats - vercel"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMartEsc&theme=radical&&hide_border=false&include_all_commits=true&count_private=true" alt="Stats - vercel"/>
     
   </td>
 </table>
@@ -29,6 +29,6 @@ Studies:
 ## 🏆 GitHub Trophies
 <div align="center">
   
-  <img src="http://trophy.ryglcloud.net/?username=PeterMartEsc&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="Profile Trophy - Vercel"/>
+  <img src="http://trophy.ryglcloud.net/?username=PeterMartEsc&title=Stars,Followers&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="Profile Trophy - Vercel"/>
   
 </div>
