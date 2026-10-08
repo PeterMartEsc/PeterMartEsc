@@ -30,6 +30,7 @@ Studies:
 <div align="center">
   
   <img src="http://trophy.ryglcloud.net/?username=PeterMartEsc&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="Profile Trophy - Vercel"/>
+  <br/>
   <img src="http://trophy.ryglcloud.net/?username=PeterMartEsc&title=Stars,Followers&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10" alt="Profile Trophy - Vercel"/>
   
 </div>
